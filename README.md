@@ -1,5 +1,7 @@
-## Hi there 👋
+## About me
 
+I'm Craig. I'm currently working on improving my data analysis/science skills with SQL, R, and Pyhon. I'm currently learning about database modeling.
+A fun fact about me is that I was a Geoscience major during my undergraduate studies 🪨🌍.
 <!--
 **cfoley203/cfoley203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
